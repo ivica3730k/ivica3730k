@@ -37,10 +37,9 @@ I'm Ivica Matic, a BSc Hons Software Engineering student at Nottingham Trent Uni
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-#### Software & Tools
+# Software & Tools
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Pip](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
@@ -52,6 +51,12 @@ I'm Ivica Matic, a BSc Hons Software Engineering student at Nottingham Trent Uni
 ![LTspice](https://img.shields.io/badge/LTspice-000000?style=for-the-badge&logo=ltspice&logoColor=white)
 ![Eagle](https://img.shields.io/badge/Eagle-FFD000?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Autodesk 360](https://img.shields.io/badge/Autodesk_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 
 # Hobbies
 - 🚴‍♂️ **Cycling**
