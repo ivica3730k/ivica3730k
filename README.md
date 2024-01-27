@@ -79,15 +79,9 @@ I'm Ivica Matic, a BSc Hons Software Engineering student at Nottingham Trent Uni
 - STM32 
 
 # Work Experience
-- **Software Engineer at Spatial Days Ltd** (Current)  
-  [Spatial Days Ltd](https://www.spatialdays.com)
-
-- **Software Engineer at Sundance Multiprocessor Ltd**  
-  [Sundance](https://www.sundance.com)
+- [**Software Engineer at Spatial Days Ltd** (Current)](https://www.spatialdays.com)
+- [**Software Engineer at Sundance Multiprocessor Ltd**](https://www.sundance.com)
 
 # Education
-- **Nottingham Trent University**  
-  [Nottingham Trent University](https://www.ntu.ac.uk)
-
-- **Technical School Slavonski Brod**  
-  [tssb.hr](https://tssb.hr)
+- [**Nottingham Trent University**  ](https://www.ntu.ac.uk)
+- [**Technical School Slavonski Brod**](https://tssb.hr)
