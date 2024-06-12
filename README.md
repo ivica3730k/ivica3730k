@@ -2,6 +2,7 @@
 
 I'm Ivica Matic, a BSc Hons Software Engineering student at Nottingham Trent University. Currently, I'm in the role of Software Engineer at Spatial Days Ltd. I dabble in all things software, from coding wizardry to exploring the ham radio universe (call sign: 9A3ICE). Beyond the tech scene, you'll catch me cycling, whipping up some kitchen magic, and occasionally hitting the gym. Let's just say, I'm on a quest to make software, hardware and life a bit more interesting! 🚀✨
 
+**Website:** [www.ivica-matic.com](https://ivica-matic.com/)
 **LinkedIn:** [Ivica Matic](https://www.linkedin.com/in/matic-ivica/)  
 **Blog:** [blog.ivica-matic.com](https://blog.ivica-matic.com)  
 **CV:** [Download CV](https://ivica-matic.com/media/uploads/cv.pdf)
