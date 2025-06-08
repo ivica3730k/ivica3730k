@@ -1,6 +1,6 @@
 ### Ivica Matic
 
-I'm Ivica Matic, a BSc Hons Software Engineering student at Nottingham Trent University. Currently, I'm in the role of Backend Software Engineer at GroupNexus. I dabble in all things software, from coding to exploring the ham radio universe (call sign: 9A3ICE). Beyond the tech scene, you'll catch me cycling, whipping up some kitchen magic, and hitting the gym. Let's just say, I'm on a quest to make software, hardware and life a bit more interesting! 🚀✨
+I'm Ivica Matic - a software engineer from Croatia. I'm in the role of Backend Software Engineer at GroupNexus. I dabble in all things software, from coding to exploring the ham radio universe (call sign: 9A3ICE). Beyond the tech scene, you'll catch me cycling, whipping up some kitchen magic, and hitting the gym. Let's just say, I'm on a quest to make software, hardware and life a bit more interesting! 🚀✨
 
 **Website:** [www.ivica-matic.com](https://ivica-matic.com/)<br>
 **LinkedIn:** [Ivica Matic](https://www.linkedin.com/in/matic-ivica/)<br>
